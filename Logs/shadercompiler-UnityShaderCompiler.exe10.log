@@ -2,3 +2,5 @@ Base path: 'D:/yo/2020.3.16f1/Editor/Data', plugins path 'D:/yo/2020.3.16f1/Edit
 Cmd: initializeCompiler
 
 Cmd: shutdown
+
+Quitting shader compiler process
